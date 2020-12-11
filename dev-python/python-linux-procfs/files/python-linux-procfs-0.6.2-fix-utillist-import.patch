@@ -1,0 +1,13 @@
+diff --git a/procfs/procfs.py b/procfs/procfs.py
+index a586ae2..3cfa941 100755
+--- a/procfs/procfs.py
++++ b/procfs/procfs.py
+
+@@ -21,7 +21,7 @@
+ import os, time
+ from functools import reduce
+ from six.moves import range
+-from utilist import bitmasklist
++from procfs.utilist import bitmasklist
+ import platform
+ import re
