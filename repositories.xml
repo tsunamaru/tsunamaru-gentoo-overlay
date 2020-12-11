@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>tsunamaru-gentoo</name>
+		<description lang="en">Custom Gentoo Overlay from someone</description>
+		<homepage>https://github.com/tsunamaru-gentoo-overlay</homepage>
+		<owner type="person">
+            <name>Artem Vetrov</name>
+			<email>foxxconn@protonmail.com</email>
+        </owner>
+		<source type="git">git://github.com/tsunamaru/tsunamaru-gentoo-overlay.git</source>
+        <feed>https://github.com/tsunamaru/tsunamaru-gentoo-overlay/commits/master.atom</feed>
+	</repo>
+</repositories>
