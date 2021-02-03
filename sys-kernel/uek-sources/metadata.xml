@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>foxxconn@protonmail.com</email>
+		<name>Artem Ilgamov</name>
+		<description>CC/Assign to me the version bump request</description>
+	</maintainer>
+	<upstream>
+		<remote-id type="cpe">cpe:/o:linux:linux_kernel</remote-id>
+	</upstream>
+</pkgmetadata>
